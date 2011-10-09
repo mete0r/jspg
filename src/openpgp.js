@@ -744,7 +744,7 @@ OpenPGP.Message = {};
 OpenPGP.Message.armor = function(message) {
   var armored = '';
   armored += '-----BEGIN PGP MESSAGE-----\n';
-  armored += 'Version: JsPG v'+OpenPGP.version+'\n';
+  armored += 'Version: openpgp-js v'+OpenPGP.version+'\n';
   armored += '\n';
   armored += OpenPGP.radix64.encode(message)+'\n';
   armored += '='+OpenPGP.radix64.encode(OpenPGP.crc24(message))+'\n';
