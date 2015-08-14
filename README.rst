@@ -1,7 +1,7 @@
 
-*This ancient experimental project is not maintained, actually has never grown to usable quality.*
+**This ancient experimental project is not maintained, actually has never grown to usable quality.**
 
-*The excelent OpenPGP.js project (https://github.com/openpgpjs/openpgpjs) is matured and recommended implementation.*
+**The excelent OpenPGP.js project (https://github.com/openpgpjs/openpgpjs) is matured and recommended implementation.**
 
 ----
 
